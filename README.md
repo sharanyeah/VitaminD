@@ -66,7 +66,7 @@ Database
 ├── README.md
 └── LICENSE 
 ---
-
+```
 ⚙️ Installation Instructions
 
 1️⃣ Clone the Repository
