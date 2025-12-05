@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.h5
+
+# Virtual environment
+venv/
+env/
+
+# Flask uploads
+uploads/
+
+# Models
+*.h5
+*.pkl
+
+# VS Code
+.vscode/
+
+# Node/JS
+node_modules/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# MySQL dumps
+*.sql
+
+# Frontend
+*.log
+
+# Temporary files
+*.tmp
+*.cache
