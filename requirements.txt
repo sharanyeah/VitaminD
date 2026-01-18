@@ -1,6 +1,6 @@
 Flask==2.3.2
-tensorflow==2.12.0
-keras==2.12.0
+tensorflow>=2.13,<2.16
+keras>=2.13,<2.16
 opencv-python==4.8.0.74
 numpy==1.24.3
 pandas==2.0.2
